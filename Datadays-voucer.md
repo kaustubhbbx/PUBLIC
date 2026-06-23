@@ -249,7 +249,7 @@ No. The form asks what you have done or *plan* to do. You can start studying aft
 
 ---
 
-*Guide by **Kaustubh Shende** — Microsoft Student Ambassador*
+*Guide by **Kaustubh Shende** — hope it hleps*
 
 [![GitHub](https://img.shields.io/badge/GitHub-kaustubhbbx-181717?style=flat-square&logo=github)](https://github.com/kaustubhbbx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaustubh-shende-19b685380/)
