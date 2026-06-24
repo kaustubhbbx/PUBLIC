@@ -3,7 +3,7 @@
 # 🎓 Get a FREE Microsoft Certification
 ### Data Days 2026 — Complete Step-by-Step Guide
 
-*Curated by **Kaustubh Shende** — Microsoft Student Ambassador*
+*Curated by **Kaustubh Shende** — hope it helps*
 
 [![GitHub](https://img.shields.io/badge/GitHub-kaustubhbbx-181717?style=flat-square&logo=github)](https://github.com/kaustubhbbx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaustubh%20Shende-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaustubh-shende-19b685380/)
